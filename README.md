@@ -1,0 +1,1 @@
+A program that automatically generates random sentences and their syntax trees according to the ![X-bar theory](https://en.wikipedia.org/wiki/X-bar_theory). Words and phrases type can be added into lexcialRules.js and phraseRules.js respectively. 
